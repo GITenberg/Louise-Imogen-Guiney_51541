@@ -1,0 +1,26 @@
+_repo: Louise-Imogen-Guiney_51541
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brown, Alice
+    birthdate: 1857
+    deathdate: 1948
+    gutenberg_agent_id: '1688'
+    url: http://www.gutenberg.org/2009/agents/1688
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Brown_%28writer%29
+description: ''
+gutenberg_issued: '2016-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51541'
+  lccn: '21017379'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Guiney, Louise Imogen, 1861-1920'
+- !lcc 'PS'
+- GITenberg
+title: Louise Imogen Guiney
+url: http://www.gutenberg.org/ebooks/51541
